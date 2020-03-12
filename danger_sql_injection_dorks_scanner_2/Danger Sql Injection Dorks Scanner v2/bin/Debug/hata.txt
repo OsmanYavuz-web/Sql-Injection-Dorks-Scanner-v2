@@ -1,0 +1,19 @@
++Taramayý baþlat dediðinde eski veri varsa baþlatýyor butonu enabled fase yapmýyor
++zafiyet tarama iþleminden sonra label durum kýrmýzý kalýyor
++zafiyet tarama iþlemi bittiðinde taramayý baþlat butonu aktif kalýyor
++tarama durdurulduðunda label durumda sitesi taranýyor kalýyor
++/www hatasýnda baþa alýyor hep
++Zafiyet tararken programý durduramýyorsun
++Durdurma iþleminde [../] iþareti kalýyor..
++Hedef ülke giriþ yasakla
++Kritik hata
++Satýr 308
++Satýr 53
++Satýr 1410
++5-Dork tarama süre uçuyor 157 sn oldu
++Zafiyet taramasý durdurulduðunda program belli bir süre donuyor
++Bulunan siteler ve zafiyet bulunan siteler sað tuþ siteyi aç ekle
++bulunan linkler 2 eksik gösteriyor
++dork taramasýnda sondan 2 linkte taramayý bitiriyor
++gecenzaman düzenlenecek hatalý
+

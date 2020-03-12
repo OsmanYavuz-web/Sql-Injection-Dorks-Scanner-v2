@@ -1,0 +1,40 @@
+[SIZE=3]
+
+[B]Selamün Aleyküm Arkadaþlar;[/B]
+
+Ýsmindende anlaþýlacaðý üzere Sql Injection dorks scanner :) Aslýnda daha önceden yapmýþ olduðum bir programdý [URL=http://www.cyber-warrior.org/Forum/danger-sql-injection-dorks-scanner_477063,0.cwx]Konu Link[/URL] bunu geliþtirmek istedim v2.0 sürümünü sýfýrdan C# ile yaptým tasarým ve kodlar bana aittir. Aslýnda bir kaç günde bitirdiðim programý saðolsun Google çok iyi engelliyordu buna çok uðraþtým :) Google'dan veri çekmek için Webclient ve WebRequest kullandýðýmda program daha hýzlý iþliyor fakat 30 üzeri istekten sonra 503 hatasý veriyordu bende çözüm üretmek açýsýndan timeout vererek sýfýrdan WebBrowser kullanarak yapmayý baþardým biraz yavaþ 
+olsada baþarýlý oldu :) Programda güncelleme desteði vardýr oluþan, gözümden kaçan sorunlarý(muhakkak vardýr) düzeltebilmek ve size ulaþtýrabilmek için ve program kendisi herhangi biþey yüklemez, sadece size bildirir. Fazla uzatmadan ayrýca hatýrlatayým Thread kullandýðým için sizin o anki bilgisayar durumunuza ve internet baðlantý hýzýnýza baðlýdýr programýn performansý. Videoda kullanýmýn detaylý açýkladým ve Sqlmap ile bir site üzerinde denemede bulundum maalesef baþarýsýz olucaðýmý anladým video uzatmak istemedim ama sitenin kolonlarýna kadar ulaþtým :D Umarým faydalý olur. 
+
+[B][GREEN]Programýn indirme linki, özellikleri, birkaç resim, kullaným videosu ve virustotal sonucu aþaðýdadýr. Sürç-i lisan ettiysek affola, teþekkürler.[/FONT][/B]
+
+[ORANGE][B]Program Özellikleri:[/B][/FONT]
+* Google arama motoru üzerinden dorks listesi tarama,
+* Bulduðu siteler üzerinde Sql Injection zafiyeti arama, (False Positive bulamaz)
+* Admin panel bulucu,
+* Proxy desteði ve dinamik proxy listesi,
+* UserAgent desteði,
+* Ýþe yarar txt dosyalarý ve bir çok özellik.
+
+[ORANGE][B]Ýndirme Linki:[/B][/FONT]
+[URL=https://app.box.com/s/pgy4u855n11l61o4ano8]https://app.box.com/s/pgy4u855n11l61o4ano8[/URL]
+
+[ORANGE][B]Kullaným Videosu:[/B][/FONT]
+[URL=https://youtu.be/pEtHrzfyw1U]https://youtu.be/pEtHrzfyw1U[/URL]
+
+[RED]Not:  Videodaki çat çut sesleri kalem oynuyordum o yüzden yanlýþ anlaþýlmasýn :)[/FONT]
+
+[ORANGE][B]Virus Total Sonucu:[/B][/FONT]
+[URL=https://www.virustotal.com/tr/file/f241579127af488b8e5fd83e67dc2f7990316573826db5c1ae95ce67e7ce5c44/analysis/1428260854/]https://www.virustotal.com/tr/file/f241579127af488b8e5fd83e67dc2f7990316573826db5c1ae95ce67e7ce5c44/analysis/1428260854/[/URL]
+
+[ORANGE][B]Programdan Resim:[/B][/FONT]
+[IMG]http://i.hizliresim.com/ZL41Rz.png[/IMG]
+
+[BLUE][B]Videoda Vakit Bulamadýðým Sitenin Bilgileri:[/B] :)[/FONT]
+
+[BLUE]Sqlmap Komutlarý ve Çýktýlarý:[/FONT] 
+[URL=http://tny.cz/61e3f885]http://tny.cz/61e3f885[/URL]
+
+[/FONT][BLUE]Kali'den Resim:[/FONT]
+[IMG]http://i.hizliresim.com/gkang0.png[/IMG]
+
+[/FONT] 

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Danger Sql Injection Dorks Scanner v2", "Danger Sql Injection Dorks Scanner v2\Danger Sql Injection Dorks Scanner v2.csproj", "{EE60281B-78F0-49E3-9311-A3C03FC60730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE60281B-78F0-49E3-9311-A3C03FC60730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE60281B-78F0-49E3-9311-A3C03FC60730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE60281B-78F0-49E3-9311-A3C03FC60730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE60281B-78F0-49E3-9311-A3C03FC60730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
